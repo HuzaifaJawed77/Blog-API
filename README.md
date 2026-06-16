@@ -1,9 +1,29 @@
 # 📝 Blog REST API
 
-> 🚀 My first backend project — a fully functional Blog API built from scratch as the beginning of my backend development journey.
+<div align="center">
 
-A production-ready RESTful API for a complete blog application featuring authentication, authorization, CRUD operations, pagination, search, likes, comments, and more — built with modern backend technologies.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+
+
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🚀 My First Backend Project</h3>
+  <p>A production-ready RESTful Blog API built from scratch as the first milestone of my backend development journey.</p>
+  <p>Built with <strong>Node.js</strong> · <strong>Express.js</strong> · <strong>MongoDB</strong> · <strong>JWT</strong></p>
+</div>
+
+<br />
+
+---
 ---
 
 ## 🛠️ Tech Stack
